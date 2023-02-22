@@ -1,0 +1,130 @@
+body {
+    font-size: 15pt;
+   
+}
+
+*{
+  padding: 10;
+  margin: 110;
+}
+
+body{
+  height: 100vh;
+  background: linear-gradient(
+    to top,
+    pink 0%,
+    pink 50%,
+    paleturquoise 50%,
+    paleturquoise 100%
+  );
+   
+}
+
+.ngt1{
+font-family: "Times New Roman", Times, serif;
+
+
+} 
+
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.ngt3{
+  text-align: center;
+}
+
+.ngt4{
+  text-align: left;
+}
+
+.ngt5{
+  text-align: center ;
+}
+
+
+.ns{
+  text-align: center ;
+}
+
+.ns2{
+  text-align: center ;
+}
+
+
+
+
+
+.ngt9{
+  float: right;
+  font-family: fantasy;
+  font-size:6pt;
+  text-align: center;
+}
+
+.center{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.center1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ngt10{
+  float: right;
+  font-family: fantasy;
+  font-size:6pt;
+  text-align: center;
+}
+
+.center3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ngt11{
+  float: right;
+  font-family: fantasy;
+  font-size:6pt;
+  text-align: center;
+}
+
+.center4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ngt12{
+  float: right;
+  font-family: fantasy;
+  font-size:6pt;
+  text-align: center;
+}
+
+.ngt13{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ns4{
+  text-align: center;
+}
+
+.ns5{
+  text-align: left;
+}
